@@ -1,0 +1,23 @@
+#
+Project UpDownCounter symbol
+I9
+#
+analogLib vpulse symbol
+V1
+#
+analogLib vdc symbol
+V3
+V2
+V0
+#ISCELL
+analogLib gnd symbol
+I5
+I4
+I3
+I2
+I1
+#ISCELL
+basic noConn symbol
+I7
+I6
+I8

@@ -1,0 +1,20 @@
+#
+Project D_FF symbol
+I0
+#
+Project UpDownCounter symbol
+I1
+#ISCELL
+basic ipin symbol
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic iopin symbolr
+PIN4
+PIN3
+#ISCELL
+basic opin symbol
+PIN7
+PIN6
+PIN5

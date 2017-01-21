@@ -1,0 +1,27 @@
+#
+engg6520lab1 inver1 symbol
+I29
+I30
+#
+Project D_FF symbol
+I26
+I27
+I28
+#
+Project Full_xor symbol
+I24
+I25
+#ISCELL
+basic ipin symbol
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic iopin symbolr
+PIN7
+PIN6
+#ISCELL
+basic opin symbol
+PIN3
+PIN4
+PIN5

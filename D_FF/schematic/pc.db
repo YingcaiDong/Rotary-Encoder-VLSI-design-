@@ -1,0 +1,23 @@
+#
+engg6520_lab2 NAND symbol
+I7
+I10
+#
+Project NAND3 symbol
+I12
+I8
+I5
+I9
+#ISCELL
+basic ipin symbol
+PIN7
+PIN8
+PIN1
+#ISCELL
+basic opin symbol
+PIN4
+PIN3
+#ISCELL
+basic iopin symbolr
+PIN6
+PIN5
